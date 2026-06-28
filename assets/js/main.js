@@ -45,7 +45,7 @@ navLinks.forEach(link => {
 
 /* ----- TYPING EFFECT ----- */
   var typingEffect = new Typed(".typedText", {
-  strings: [" Developer", "Tech Enthusiast", "Business Strategist",],
+  strings: [" Developer", "Tech Enthusiast", "Java Developer",],
   loop: true,
   typeSpeed: 100,
   backSpeed: 80,
