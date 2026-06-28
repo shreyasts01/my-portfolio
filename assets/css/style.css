@@ -360,7 +360,7 @@ h3{
 }
 
 /* ----- PROJECTS BOX ----- */
-/* .project-container{
+ .project-container{
     display: flex;
     width: 100%;
     justify-content: space-between;
@@ -408,9 +408,9 @@ h3{
 .project-box:hover.project-box>label{
     color: var(--color-white);
     z-index: 2;
-} */
+} 
 
-.project-container {
+/*.project-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 2rem;
@@ -456,7 +456,7 @@ h3{
 }
 .project-link:hover {
   text-decoration: underline;
-}
+}*/
 
 /* ----- CONTACT BOX ----- */
 .contact-info{
