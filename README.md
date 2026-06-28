@@ -1,8 +1,8 @@
 Welcome to my personal developer portfolio! 🚀
-I'm Sharath N S, a passionate and creative full-stack web developer with a knack for building dynamic and user-friendly web applications. This portfolio is a digital reflection of my journey, skills, projects, and growth as a software engineer.
+I'm Sharath T S, a passionate and creative java full-stack developer with a knack for building dynamic and user-friendly web applications. This portfolio is a digital reflection of my journey, skills, projects, and growth as a software engineer.
 
 🧠 About Me
-I'm currently pursuing my Bachelor's in Computer Science and Business Systems at Dr. Ambedkar Institute of Technology. I'm enthusiastic about exploring cutting-edge technologies and solving real-world problems through code.
+I had completed my Bachelor's in Computer Science and Engineering at Vivekananda College of Engineering and Technology,Puttur. I'm enthusiastic about exploring cutting-edge technologies and solving real-world problems through code.
 
 💡 “Code is not just syntax; it's a form of expression.”
 
@@ -11,11 +11,11 @@ Frontend: HTML5, CSS3, JavaScript, React.js
 
 Backend: Node.js, Express.js
 
-Database: MongoDB
+Database: MongoDB,Firestore database,Mysql
 
-Tools: Git, GitHub, VS Code, Postman
+Tools: Git, GitHub, VS Code,Android Studio,Vercel,Render,Firebase,YoloV8
 
-Other Skills: API Integration, Responsive Design, Prompt Engineering, Data Structures in C++
+Other Skills: API Integration, Responsive Design, Prompt Engineering, Data Structures in Java
 
 💼 What You’ll Find in This Portfolio
 ✅ About Me Section
@@ -30,7 +30,7 @@ Other Skills: API Integration, Responsive Design, Prompt Engineering, Data Struc
 
 ✅ Clean, responsive UI
 
-🔗 https://sharath-holla.github.io/my_portfolio/
+🔗 https://shreyasts01.github.io/my-portfolio/
 Click here to view my live portfolio
 
 🚀 Featured Projects
@@ -47,7 +47,7 @@ You can download my resume directly from the Resume Section of the portfolio (Re
 📬 Contact Me
 Have an opportunity or just want to connect?
 Feel free to reach out through the contact form on the site, or shoot me an email at:
-📧 nssharath123@gmail.com
+📧 tsshreyas4@gmail.com
 
 💖 Support
 If you like what you see, feel free to ⭐ the repo and follow me on GitHub!
